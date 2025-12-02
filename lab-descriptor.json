@@ -15,14 +15,14 @@
             "name": "Linear Block Codes",
             "short-name": "linear-block-codes",
             "repo": "https://github.com/virtual-labs/exp-linear-block-codes-iiith",
-            "tag": "v1.0.0",
+            "tag": "v1.0.2",
             "deploy": true
         },
         {
             "name": "Generator Matrix and Parity-check Matrix",
             "short-name": "generator-matrix",
             "repo": "https://github.com/virtual-labs/exp-generator-matrix-iiith",
-            "tag": "v1.0.0",
+            "tag": "v1.0.1",
             "deploy": true
         },
         {
@@ -36,7 +36,7 @@
             "name": "Error Detection and Correction, Standard Array Syndrome Decoding",
             "short-name": "error-detection-correction",
             "repo": "https://github.com/virtual-labs/exp-error-detection-correction-iiith",
-            "tag": "v1.0.0",
+            "tag": "v1.0.1",
             "deploy": true
         },
         {
@@ -50,7 +50,7 @@
             "name": "Basics of Finite Fields",
             "short-name": "finite-fields",
             "repo": "https://github.com/virtual-labs/exp-finite-fields-iiith",
-            "tag": "v1.0.0",
+            "tag": "v1.0.1",
             "deploy": true
         },
         {
